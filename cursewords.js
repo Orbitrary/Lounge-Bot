@@ -1,1 +1,0 @@
-const curse = ['fuck', 'shit', 'what the fuck', 'what the fuck!', 'what the fuck?'];
